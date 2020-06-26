@@ -2,4 +2,4 @@
 my first repository
 yo guys!!
 iam learning data science.
-i dont like coding..
+i am not much fast in coding..
